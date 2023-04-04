@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chalonlubin
 - 👀 I’m interested in working with technology that makes a difference, specifically in housing, healthcare, finance, and mental health.
-- ✨ I’m looking to collaborate on open source projects, and open to working either remote or in person as a software engineer.
+- ✨ I’m looking to collaborate on open source projects, and open to working either remote or in person as a software engineer. I will also consider taking on contracts. 
 - 📫 Feel free to reach me @ chalonlubin.dev@gmail.com
 
 <!---
