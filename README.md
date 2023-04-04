@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chalonlubin
 - 👀 I’m interested in working with technology that makes a difference, specifically in housing, healthcare, finance, and mental health.
 - ✨ I’m looking to collaborate on open source projects, and open to working either remote or in person as a software engineer.
-- 📫 Feel free to reach me @ chalonlubin1@gmail.com
+- 📫 Feel free to reach me @ chalonlubin.dev@gmail.com
 
 <!---
 chalonlubin/chalonlubin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
